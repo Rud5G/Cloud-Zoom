@@ -4,8 +4,8 @@
  *
  * @package     CloudZoom
  * @category    EcommerceTeam
- * @copyright   Copyright 2011 EcommerceTeam Inc. (http://www.ecommerce-team.com)
- * @version:    1.1.3
+ * @copyright   Copyright 2012 EcommerceTeam Inc. (http://www.ecommerce-team.com)
+ * @version:    1.1.4
  */
 
 class EcommerceTeam_CloudZoom_Helper_Data extends Mage_Core_Helper_Abstract
